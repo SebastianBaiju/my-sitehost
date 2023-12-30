@@ -1,0 +1,4 @@
+@use '../abstracts/variables/' as *;
+.sb-container-wrapper{
+  max-width: $max-width-container;
+}
